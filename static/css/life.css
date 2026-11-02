@@ -1,0 +1,10 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: Tahoma, sans-serif; }
+body { background: #f4faf4; color: #333; line-height: 1.8; padding: 30px; }
+.insurance-container { max-width: 800px; margin: 0 auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border-top: 6px solid #5cb85c; }
+h1 { color: #5cb85c; margin-bottom: 20px; font-size: 24px; }
+.desc { color: #555; font-size: 15px; margin-bottom: 25px; text-align: justify; }
+.btn-group { margin-top: 35px; display: flex; gap: 15px; }
+.btn-action { background: #5cb85c; color: white; padding: 12px 25px; text-decoration: none; border-radius: 6px; font-weight: bold; flex: 1; text-align: center; }
+.btn-action:hover { background: #4cae4c; }
+.btn-back { background: #6c757d; color: white; padding: 12px 25px; text-decoration: none; border-radius: 6px; font-weight: bold; text-align: center; }
+.btn-back:hover { background: #5a6268; }
